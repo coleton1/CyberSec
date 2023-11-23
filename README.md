@@ -3,6 +3,6 @@
 
 
 
-===========================================================
-just a buncha random scripts made by CyberSecurity students
-===========================================================
+
+just a buncha random scripts and other shit made by CyberSecurity students
+
