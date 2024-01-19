@@ -1,0 +1,75 @@
+
+	<div style="background-color:#f6f6f6;color:#000000">
+	<center>
+		<table style="max-width:620px;border-collapse:collapse;margin:0 auto 0 auto" width="620" cellspacing="0" cellpadding="0" border="0">
+			<tbody>
+			<tr>
+				<td>
+					<table style="max-width:580px;padding-left:20px;padding-right:20px" width="580" cellspacing="0" cellpadding="0" border="0">
+						<tbody>
+						<tr>
+							<td style="line-height:0;padding-top:50px" align="left">
+								<img src="https://storage.googleapis.com/scan-snapchat.appspot.com/creative-camera/confirm-header.png" style="background:#f6f6f6">
+							</td>
+						</tr>
+						<tr style="background:#ffffff">
+							<td style="font-family:AvenirNext-Regular,Droid Sans monospace,Roboto,Arial,sans-serif" align="center">
+								<p style="font-size:45px;color:#000000;letter-spacing:-1.5px">
+									Confirm your Email?</p>
+							</td>
+						</tr>
+						<tr style="background:#ffffff">
+							<td style="padding-left:20px;padding-right:20px;padding-top:29.8px;font-size:22px;color:#000000;letter-spacing:0;line-height:37px;font-family:AvenirNext-Regular,Droid Sans monospace,Roboto,Arial,sans-serif" border="0" align="left">
+								<p>
+									<span style="display:block">Hi <span style="font-family:AvenirNext-DemiBold,'Droid Sans monospace',Roboto,Arial,sans-serif">
+mindy
+									</span>,</span>
+									<span style="display:block">Thank you for adding your email address to Snapchat. Confirm your email below so you can reset your account if you forget your password.</span>
+								</p>
+							</td>
+						</tr>
+						<tr style="background:#ffffff">
+							<td style="padding-top:10px" align="center">
+								<a target="_blank" href="
+https://www.youtube.com
+">
+									Confirm Your Email address
+								</a>
+							</td>
+						</tr>
+						<tr style="background:#ffffff">
+							<td style="padding-left:20px;padding-right:20px;padding-top:29.8px;font-size:22px;color:#000000;letter-spacing:0;line-height:37px;font-family:AvenirNext-Regular,Droid Sans monospace,Roboto,Arial,sans-serif" border="0" align="left">
+								<p style="margin-bottom:0px">If this is not your Snapchat account, or if you did not sign up for Snapchat, please <a target="_blank" href="
+https://www.youtube.com
+">Click Here</a> to remove your email address from this account.</p>
+							</td>
+						</tr>
+						<tr style="background:#ffffff">
+							<td style="font-family:AvenirNext-Regular,Droid Sans monospace,Roboto,Arial,sans-serif" align="center">
+								<p style="font-size:45px;color:#000000;letter-spacing:-1.5px;padding-top:30px">
+									Happy Snapping!</p>
+							</td>
+						</tr>
+						<tr>
+							<td align="left">
+								<img src="https://storage.googleapis.com/scan-snapchat.appspot.com/creative-camera/confirm-footer.png" style="background:#f6f6f6">
+							</td>
+						</tr>
+						<tr>
+							<td style="margin-top:0;margin-bottom:0;color:#262626;font-size:17px;padding-top:30px;padding-bottom:70px;letter-spacing:0;line-height:35px;font-family:AvenirNext-Regular,Droid Sans monospace,Roboto,Arial,sans-serif" align="center">
+								<p>
+									<span style="display:block">© Snap Inc.  &nbsp;&nbsp;|&nbsp;&nbsp; <a target="_blank" style="text-decoration:none;color:#0eadff" href="WWW.PHISHINGURL.COM">Terms</a></span>
+									<span style="display:block"><a target="_blank" style="text-decoration:none;color:#000000" href="WWW.PHISHINGURL.COM">https://support.snapchat.com</a></span>
+									<span style="display:block">Snap Inc., 63 Market Street, Venice CA 90291</span>
+								</p>
+							</td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+	</center>
+	</div>
+	</div></div>
