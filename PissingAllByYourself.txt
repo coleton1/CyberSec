@@ -1,0 +1,8 @@
+REM Title:Pissing All By Yourself
+REM Author:Parsec
+REM Description:Plays funny New Vegas Meme
+REM Target:Windows 10/11 Computers
+DELAY 200
+GUI r
+STRING https://va.media.tumblr.com/tumblr_rdv4w6yBpN1z73bgs.mp4
+ENTER
